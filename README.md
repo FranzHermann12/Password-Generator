@@ -1,5 +1,3 @@
-<img width="831" height="679" alt="Screenshot 2026-11-08 140958" src="https://github.com/user-attachments/assets/0c40a086-7b93-400b-a668-bf3904f668c6" /># Password Generator
-
 **Version:** v0.01
 **Developer:** Franz_Hermann1
 
