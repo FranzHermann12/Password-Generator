@@ -67,7 +67,7 @@ The executable will be available inside the `dist` directory.
 
 ## Download
 
-Download the Windows executable from the GitHub Releases section when a release is available.
+Download the Windows executable from the GitHub Releases section.
 
 ## Technologies Used
 
