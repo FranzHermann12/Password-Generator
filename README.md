@@ -1,5 +1,5 @@
 ## Password Generator
-**Version:** v0.01
+**Version:** v1.5.0
 **Developer:** Franz_Hermann1
 
 A classic Windows-style password generator built with Python and Tkinter.
