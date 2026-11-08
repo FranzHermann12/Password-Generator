@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary build files
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local application data
+password_generator_config.json
+password_generator_profiles.json
