@@ -88,8 +88,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## Author
 
 **Franz_Hermann1**
-
-GitHub: [https://github.com/FranzHermann12](https://github.com/FranzHermann12)
-
-Website: [https://franzhermann12.github.io/](https://franzhermann12.github.io/)
-
