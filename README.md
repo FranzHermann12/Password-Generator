@@ -88,3 +88,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## Author
 
 **Franz_Hermann1**
+
+$\textsf{\color{orange} (no longer in development)}$
